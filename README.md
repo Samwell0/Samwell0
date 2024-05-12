@@ -1,6 +1,6 @@
-- 👻 Hi folks, I’m @Samwell0
-- 💚 I’m currently learning HTML and CSS 
-- 🌱 I’m working through Software Enginnering boot camp at TripleTen
+👻 Hi folks, I’m @Samwell0 <br/>
+💚 I’m currently learning HTML and CSS <br/>
+🌱 I’m working through Software Enginnering boot camp at TripleTen
 
 
 <!---

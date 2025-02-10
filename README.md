@@ -1,5 +1,5 @@
 👻 Hi folks, I’m @Samwell0 <br/>
-💚 I’m currently learning HTML and CSS <br/>
+💚 I’m currently learning HTML, CSS. and JavaScript <br/>
 🌱 I’m working through Software Enginnering boot camp at TripleTen
 
 
